@@ -1,6 +1,7 @@
 ---
 hero:
-  heading: Novela - the simplest way to start publishing with Hugo and Forestry.
+  heading: WE ARE A BIBLE BELIEVING CHURCH WITH THE SIMPLE MESSAGE THAT JESUS SAVES.
   maxWidthPX: "652"
+draft: true
 
 ---
